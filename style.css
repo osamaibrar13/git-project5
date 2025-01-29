@@ -1,0 +1,28 @@
+.square{   
+    background: #908d8d;
+    }
+    .circle ,.square{
+    margin-top: 15px;
+    margin-left: 80px;
+        width: 200px;
+    height: 200px;
+    
+    }
+    .circle{
+        background-color:#000000;
+        border-radius:100%;
+        margin-bottom: 5px;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse; /* Ensures borders don't double up */
+        background-color: yellow;
+    }
+    td, th {
+        border: 1px solid black; /* Adds border around td and th */
+        padding: 8px; /* Adds space inside the cells */
+        text-align: left; /* Aligns text to the left */
+    }
+    tr:nth-child(even) {
+        background-color: lightblue; /* Optional: adds stripe effect */
+    }
