@@ -6,7 +6,7 @@
     margin-left: 80px;
         width: 200px;
     height: 200px;
-    
+
     }
     .circle{
         background-color:#000000;
@@ -26,3 +26,4 @@
     tr:nth-child(even) {
         background-color: lightblue; /* Optional: adds stripe effect */
     }
+    
