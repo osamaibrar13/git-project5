@@ -1,0 +1,15 @@
+.square{   
+    background: #908d8d;
+    }
+    .circle ,.square{
+    margin-top: 15px;
+    margin-left: 80px;
+        width: 200px;
+    height: 200px;
+    
+    }
+    .circle{
+        background-color:#000000;
+        border-radius:100%;
+        margin-bottom: 5px;
+    }
